@@ -24,4 +24,4 @@ set guicursor=n-v-c-sm:block,i-ci-ve:ver25,r-cr-o:hor20,a:blinkwait700-blinkoff4
 autocmd VimLeave * set guicursor=a:hor20
 
 " bar update each 0.250s
-set updatetime=250
+set updatetime=300
