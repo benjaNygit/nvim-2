@@ -26,4 +26,7 @@ call plug#begin('$HOME/.config/nvim/plugged')
   Plug 'preservim/nerdcommenter' " comentador de linea
   Plug 'neoclide/coc.nvim', {'branch': 'release'} " coc
 
+  " previsualizar markdown
+  Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+
 call plug#end()

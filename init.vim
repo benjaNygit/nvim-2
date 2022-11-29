@@ -5,6 +5,7 @@ source $HOME/.config/nvim/vim/keys.vim
 source $HOME/.config/nvim/vim/plugins.vim
 source $HOME/.config/nvim/plug/lualine.vim
 source $HOME/.config/nvim/plug/coc.vim
+source $HOME/.config/nvim/plug/markdown.vim
 
 " tema dark de ayu-vim
 colorscheme catppuccin-mocha
