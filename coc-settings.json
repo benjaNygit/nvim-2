@@ -25,5 +25,6 @@
 	"pyright.completion.snippetSupport": true,
 	"pyright.inlayHints.functionReturnTypes": true,
 	"pyright.inlayHints.variableTypes": true,
-	"pyright.testing.provider": "unittest"
+  "pyright.testing.provider": "unittest",
+  "snippets.ultisnips.pythonPrompt": false
 }
